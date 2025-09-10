@@ -1,0 +1,9 @@
+2025-09-11 01:56:26,511 - ERROR - Division by zero error occurred: division by zero
+2025-09-11 01:58:08,550 - ERROR - This is an ERROR message (a serious issue).
+2025-09-11 01:58:08,551 - CRITICAL - This is a CRITICAL message (very severe error).
+2025-09-11 01:58:20,947 - ERROR - This is an ERROR message (a serious issue).
+2025-09-11 01:58:20,948 - CRITICAL - This is a CRITICAL message (very severe error).
+2025-09-11 01:58:39,366 - ERROR - No such comm target registered: jupyter.widget.control
+2025-09-11 01:59:20,125 - ERROR - Division by zero error occurred: division by zero
+2025-09-11 01:59:22,150 - ERROR - This is an ERROR message (a serious issue).
+2025-09-11 01:59:22,150 - CRITICAL - This is a CRITICAL message (very severe error).

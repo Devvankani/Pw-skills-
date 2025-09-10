@@ -1,0 +1,9 @@
+2025-09-11 02:01:07,889 - INFO - Now app.log should definitely be created!
+2025-09-11 02:11:03,611 - INFO - Program started successfully
+2025-09-11 02:11:03,611 - ERROR - Error occurred: division by zero
+2025-09-11 02:11:38,253 - INFO - Program started successfully
+2025-09-11 02:11:38,253 - ERROR - Error occurred: division by zero
+2025-09-11 02:12:36,961 - INFO - Program started successfully
+2025-09-11 02:12:36,962 - ERROR - Error occurred: division by zero
+2025-09-11 02:17:41,555 - INFO - This is a test log message.
+2025-09-11 02:20:00,053 - ERROR - File handling error: [Errno 2] No such file or directory: 'not_exist.txt'
