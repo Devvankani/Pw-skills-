@@ -1,3 +1,0 @@
-This Is Testing String 
- another lineThis is a new line appended.
-This is a new line appended.
